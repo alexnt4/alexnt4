@@ -33,9 +33,6 @@ I am a Data Engineer with an interest Analytics, Data, and Programming.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexnt4&show_icons=true&theme=tokyonight" width="400" height="150"/>
 </a>
 
-## Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexnt4)](https://github.com/alexnt4/github-readme-stats)
 
 ### Let's Connect
 
