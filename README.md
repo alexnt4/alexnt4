@@ -20,7 +20,7 @@
 <p>
   <h4>ETL Data Pipeline</h4>
   <a href="https://github.com/alexnt4/etl-pipeline">
-    <img width="400" src="https://github.com/alexnt4/etl-pipeline/docs/images/over.png" />
+    <img width="400" src="https://github.com/alexnt4/etl-pipeline/blob/main/docs/images/over.png?raw=true" />
   </a>
 </p>
 
