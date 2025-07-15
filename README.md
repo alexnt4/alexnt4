@@ -7,7 +7,9 @@
   <a href="#"><img src="https://streak-stats.demolab.com?user=alexnt4&theme=highcontrast&border_radius=7&hide_border=true&card_width=467" alt="GitHub Streak" /></a>
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnt4&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
 
 ### Stack
