@@ -1,9 +1,7 @@
 
 # Hi there. I'm Alex 👋
 
-I am a Data Engineer with an interest Analytics, Data, and Programming. 
-
-* 🖥️  Check out some of my projects ~ [dbt ELT](https://github.com/alexnt4/dbt-etl)
+**Data Engineer | Data Analytics | Software Developer | Linux Enthusiast**
 
 
 ### Tech
@@ -20,9 +18,9 @@ I am a Data Engineer with an interest Analytics, Data, and Programming.
 ### Recent Project
 
 <p>
-  <h4>dbt ETL</h4>
-  <a href="https://github.com/alexnt4/dbt-etl">
-    <img width="400" src="https://github.com/alexnt4/dbt-etl/blob/main/assets/architecture.png" />
+  <h4>ETL Data Pipeline</h4>
+  <a href="https://github.com/alexnt4/etl-pipeline">
+    <img width="400" src="https://github.com/alexnt4/etl-pipeline/docs/images/over.png" />
   </a>
 </p>
 
