@@ -9,21 +9,11 @@
 ### Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=sql" height="40" alt="sql logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dbt" height="40" alt="dbt logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=airflow" height="40" alt="airflow logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=databricks" height="40" alt="databricks logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=snowflake" height="40" alt="snowflake logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
   <img width="12" />
@@ -46,6 +36,8 @@
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo"  />
 </div>
 
 ### Recent Project
