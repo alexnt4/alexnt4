@@ -3,7 +3,13 @@
 
 **Data Engineer | Data Analytics | Software Developer**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alexnt4&theme=highcontrast&border_radius=7&hide_border=true&card_width=467)](#)
+<p align="center">
+  <a href="#"><img src="https://streak-stats.demolab.com?user=alexnt4&theme=highcontrast&border_radius=7&hide_border=true&card_width=467" alt="GitHub Streak" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnt4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 
 ### Stack
@@ -38,6 +44,10 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=scala" height="40" alt="scala logo"  />
 </div>
 
 ### Recent Project
