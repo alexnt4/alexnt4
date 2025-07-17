@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnt4&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnt4&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 
